@@ -16,3 +16,4 @@ Next.js • React • Django • PostgreSQL • Python • JavaScript • HTML/C
 - 💼 Fiverr: https://www.fiverr.com/abdullahjbuilds
 - 📚 Gumroad: https://shadowcrimson.gumroad.com/l/cwxrs
 - 💼 LinkedIn: https://www.linkedin.com/in/abdullah-javaid-238006343/
+# Portfolio: https://abdullahj-dev.vercel.app/
