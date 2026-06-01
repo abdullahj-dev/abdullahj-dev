@@ -10,7 +10,7 @@ I build full-stack web applications using Next.js, React, Django and PostgreSQL.
 Next.js • React • Django • PostgreSQL • Python • JavaScript • HTML/CSS
 ## Currently
 - 3rd semester BS Computer Science @ Islamia University Bahawalpur
-- Published author — "The First Wound" on Gumroad
+- Published author -> "The First Wound" on Gumroad
 - Open to freelance web development projects
 ## Find Me
 - 💼 Fiverr: https://www.fiverr.com/abdullahjbuilds
